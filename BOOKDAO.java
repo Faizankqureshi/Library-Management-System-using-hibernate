@@ -10,13 +10,6 @@ import java.awt.print.Book;
 import static java.lang.reflect.Array.get;
 
 public class BOOKDAO<session> {
-//    public BookDAO() {
-//        // Initialize Hibernate SessionFactory
-//        SessionFactory = new Configuration().configure("hibernate.cfg.xml").addAnnotatedClass(Book.class).buildSessionFactory();
-//    }
-
-       // public void addbook{
-         //         }``
 
         public static List <Book>  getAllBooks(){
 
