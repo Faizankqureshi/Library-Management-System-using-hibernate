@@ -39,9 +39,7 @@ public class LMS {
 
                 case 2:
                     bookdao.getAllBooks();
-                   // BOOKDAO.getAllBooks().forEach(System.out);
-
-                   // Airf.getAllBooks().forEach(System.out::println);
+                    BOOKDAO.getAllBooks().forEach(System.out);
 
                     break;
 
